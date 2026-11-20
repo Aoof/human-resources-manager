@@ -33,4 +33,3 @@ Requires Windows and Visual Studio with the .NET desktop development workload (L
 
 ## Author
 Abdulrahman (Aoof) Mousa · [aoof.ca](https://aoof.ca)
-# human-resources-manager
